@@ -1,6 +1,7 @@
 <template>
 <div>
   <button @click="getUser">获取用户</button>
+  <div>修改child</div>
 </div>
 </template>
 
